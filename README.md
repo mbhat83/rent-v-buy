@@ -7,3 +7,12 @@ As a team we have set out to help our user determine what their best choice for 
 We are looking for the following pieces of data from our user.
 1 What is your yearly income?
 2 How much of that are you willing to spend on housing?
+
+
+# Data Collection & Exploration 
+
+The project used data sourced from Redfin.com where data is in CSV file includes Average monthly rent and Monthly Mortgage for 5% and 20% down for Nationwide from Year 2019-2022
+
+
+
+# Usage 
