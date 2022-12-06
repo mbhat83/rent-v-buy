@@ -1,4 +1,5 @@
-# rent-v-buy
+# Rent-v-buy
+![Rent vs Buy]("https://github.com/mbhat83/rent-v-buy/blob/main/Headerimage.jpg", style="width:70px; height:70p")
 
 Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
 
